@@ -1,1 +1,2 @@
 <!-- Write explantation below of tag choice below for an attempt at a level 4  -->
+i changed the background color to grey to match the mockup, and i used class tags to group some tags and change them all toget

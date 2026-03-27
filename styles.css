@@ -2,3 +2,54 @@
     box-sizing: border-box;
 }
 
+body {
+  background-color: grey;
+  color: white;
+}
+
+#header {
+    scrollbar-highlight-color: pink;
+  background-color: pink;
+  padding: 15px;
+}
+
+#header h1 {
+  margin: 0;
+  color: white;
+}
+.p1 {
+  color: yellow;
+  margin: 10px;
+}
+.p2 {
+  color: greenyellow;
+  margin: 10px;
+}
+
+
+.p3 {
+  color: lightblue;
+  margin: 10px;
+}
+
+.border1 {
+  background-color:rgb(215, 228, 228);
+  color: black;
+  border: 5px solid orange;
+  padding: 15px;
+  margin: 20px 10px;
+
+  box-sizing: border-box;
+}
+
+img {
+  margin: 20px 10px;
+  width: 400px;
+  display: block;
+}
+
+footer {
+  margin-top: 20px;
+  padding: 15px;
+  color: white;
+}
