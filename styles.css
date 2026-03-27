@@ -33,7 +33,7 @@ body {
 }
 
 .border1 {
-  background-color:rgb(215, 228, 228);
+  background-color:grey;
   color: black;
   border: 5px solid orange;
   padding: 15px;
